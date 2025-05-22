@@ -1,7 +1,7 @@
 # Log Failed Logins
 A Bash script to log failed login attempts on a Linux system. It parses system authentication logs to extract information about unsuccessful login attempts.
 
-### Feature
+### Features
 - Scans system authentication logs for failed login attempts.
 - Extracts relevant information such as timestamp and username, and prints the result
 
